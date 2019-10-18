@@ -3,7 +3,7 @@ package znet
 import (
 	"fmt"
 	"net"
-	"zinxStudy/zinx/ziface"
+	"zinx/ziface"
 )
 
 // IServer接口的实现，定义一个Server的服务模块
